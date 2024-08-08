@@ -3,6 +3,8 @@ header
     color: blueviolet;
     text-align: center;
     border: 50px;
+    font-size: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 main
 {
@@ -16,4 +18,9 @@ body
     text-align: center;
     padding: red;
     color: aqua;
+}main h1
+{
+    color: darkmagenta;
+    text-align: center;
+    background-color: black;
 }
