@@ -1,0 +1,17 @@
+header
+{
+    color: blueviolet;
+    text-align: center;
+    border: 50px;
+}
+main
+{
+    color: chartreuse;
+    font-family: cursive;
+    background-color: black;
+    border: 100px;
+}
+body
+{
+    text-align: center;
+}
