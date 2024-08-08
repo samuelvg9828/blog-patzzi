@@ -6,9 +6,9 @@ header
 }
 main
 {
-    color: chartreuse;
-    font-family: cursive;
-    background-color: black;
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:aqua;
     border: 100px;
 }
 body
